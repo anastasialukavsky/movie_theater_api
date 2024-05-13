@@ -2,31 +2,37 @@
   {
     "title": "Inception",
     "genre": "Science Fiction",
-    "available": true
+    "available": true,
+    "status": "canceled"
   },
   {
     "title": "The Dark Knight",
     "genre": "Action",
-    "available": true
+    "available": true,
+    "status": "on-going"
   },
   {
     "title": "Harry Potter: The Prisoner of Azkaban",
     "genre": "Fantasy",
-    "available": true
+    "available": true,
+    "status": "canceled"
   },
   {
     "title": "Jurassic Park",
     "genre": "Science Fiction",
-    "available": false
+    "available": false,
+    "status": "on-going"
   },
   {
     "title": "The Lord of the Rings: The Return of the King",
     "genre": "Fantasy",
-    "available": true
+    "available": true,
+    "status": "canceled"
   },
   {
     "title": "Black Panther",
     "genre": "Action",
-    "available": true
+    "available": true,
+    "status": "canceled"
   }
 ]
